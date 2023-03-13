@@ -2,6 +2,8 @@ import React from 'react'
 
 export default function Parent() {
     return (
-        <div>Parent</div>
+        <div>Parent
+            <p>New</p>
+        </div>
     )
 }
